@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A character of an antimalignant, or right Parliamentier; expressing plainly his opinion concerning King and Parliament. Published by authoritie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78589</idno>
+            <idno type="STC">Wing C2005</idno>
+            <idno type="STC">Thomason E294_1</idno>
+            <idno type="STC">ESTC R200175</idno>
+            <idno type="EEBO-CITATION">99860980</idno>
+            <idno type="PROQUEST">99860980</idno>
+            <idno type="VID">113107</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78589)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113107)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 48:E294[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A character of an antimalignant, or right Parliamentier; expressing plainly his opinion concerning King and Parliament. Published by authoritie.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F.N. for Robert Bostock dwelling in Pauls Churchyard, at the sign of the Kings Head.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 28th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113107:1" rendition="simple:additions"/>
+            <pb facs="tcp:113107:1" rendition="simple:additions"/>
+            <p>A CHARACTER OF AN ANTIMALIGNANT, OR RIGHT PARLIAMENTIER; Expreſſing plainly his opinion concerning KING and PARLIAMENT.</p>
+            <p>Publiſhed by Authoritie.</p>
+            <p>
+               <add>July 28<hi rend="sup">th</hi>
+               </add> 
+               <hi>LONDON,</hi> Printed by <hi>F.N.</hi> for <hi>Robert Boſtock</hi> dwelling in <hi>Pauls</hi> Church<g ref="char:EOLhyphen"/>yard, at the ſign of the <hi>Kings Head.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113107:2"/>
+            <pb n="1" facs="tcp:113107:2"/>
+            <head>A CHARACTER OF AN ANTIMALIGNANT, <hi>Or right Parliamentier;</hi> Expreſſing plainly his opinion concerning King and Parliament.</head>
+            <p>
+               <seg rend="decorInit">A</seg>N <hi>Antimalignant,</hi> or right <hi>Parliamen<g ref="char:EOLhyphen"/>tier,</hi> is one who layes aſide all partia<g ref="char:EOLhyphen"/>lity, and makes reaſon his Perſpective, through which he looks upon King &amp; Parliament, weighing the ends &amp; acti<g ref="char:EOLhyphen"/>ons of both in an equal ballance; nor is he ſo confident in the ſucceſſe as the cauſe, knowing that when God purpoſeth to puniſh a people for their tranſgreſſions, he ſuffers (many times) their ſcourge to prevaile, till they be reformed or deſtroyed. And therefore if at any time the malignant party gets the better, it begets no doubts in him whether he be in the right or no, eſteeming it not as a bleſſing upon them, but a juſt puniſhment upon the Nation. Neither is he ſo great a ſoother of the Parliament, as to main<g ref="char:EOLhyphen"/>tain that all their proceedings are (in ſome of their
+<pb n="2" facs="tcp:113107:3"/>Agents) ſo exactly juſtifiable as their curſe is un<g ref="char:EOLhyphen"/>doubtedly good: For being inforc'd to truſt ſo many in all places of the Kingdome, with carrying the bagge) it is almoſt impoſſible but there muſt be ſome <hi>Judaſſes</hi> amongſt them, who (with faire and ſplendid pretences) obſcure their own foul and covetous ends; ſome <hi>Achans,</hi> who buſie themſelves more in hiding The Babyloniſh Garment, the Shekels of ſilver, and Wedge of gold, then the Reformation either of Church or Common-wealth, who are yet unfound out, which <hi>he</hi> conceives (though we humble our ſelves before the Lord) to be one main reaſon that the men of <hi>Ai</hi> have prevailed ſo farre (ſometimes) againſt us; for God will accompliſh his own work, his own way: but as <hi>He</hi> is not refractory to reaſon, and things proba<g ref="char:EOLhyphen"/>ble, ſo <hi>He</hi> will by no means be drawn to the belief of impoſſibilities and contradictions, as that Papiſts, Mo<g ref="char:EOLhyphen"/>nopoliſts, Fugitives from Parliament, Popiſh Pre<g ref="char:EOLhyphen"/>lates, corrupt Judges, and other Renegadoes, (who are the chiefe Fomentors of this unnaturall Warre, both in their purſes and perſons, and are all juſtly un<g ref="char:EOLhyphen"/>der the laſh of the Parliament for their foule abu<g ref="char:EOLhyphen"/>ſes, both in Church and Common-wealth) can by any poſsible meanes be likely men to aſsiſt his Maje<g ref="char:EOLhyphen"/>ſty in fighting for the true Proteſtant Religion, the Priviledge of Parliament, and Liberty of the Sub<g ref="char:EOLhyphen"/>ject; and therefore cannot but acknowledge that his Majeſty hath juſtly rendred his integrity ſuſpected in the opinion of his people: For it is to <hi>Him</hi> a Riddle, (though it be the Common ſalve for the Kings evill, to put off all from him, and lay it onely upon his e<g ref="char:EOLhyphen"/>vill Councell) how any man can beleeve that evil
+<pb n="3" facs="tcp:113107:3"/>Councellors make an evill King (who dare not appear before him, except they firſt find him fit for their pur<g ref="char:EOLhyphen"/>poſes) that is, with a propenſity and forwardneſſe in him to conſent to ſuch things as by them ſhall be pro<g ref="char:EOLhyphen"/>pounded: So that upon the matter they are but onely Abettors and Cheriſhers of him in ſuch wayes as (by their own former obſervations they have diſcovered him to be addicted unto. That the King hath conſen<g ref="char:EOLhyphen"/>ted to his Parliament in the redreſſe of divers inſuffe<g ref="char:EOLhyphen"/>rable oppreſsions, <hi>he</hi> doth not deny; but yet not without they cry of the people in his eares for juſtice, which the Malignants call driving him out of the Towne: But the evill he hath done us hath been vo<g ref="char:EOLhyphen"/>luntary, acted with much zeale &amp; induſtry, to the great diſturbance and hazard as well of his own Perſon, as three Kingdomes. Nor will <hi>He</hi> acknowledge that the very calling of this Parliament was a voluntary act of the Kings: For if you conſider the abrupt and ſudden diſſolution of the former ſo little before, and in what condition the Kingdome ſtood when this was called, you ſhall eaſily perceive it was a thing to which he was abſolutely neceſsitated, to ſtill the people, who were otherwiſe reſolved to throw off the burthen of oppreſsion from their own ſhoulders with their own Arms, which <hi>he</hi> conceives might poſsibly have been done by them (though not ſo lawfull and loyall a way) yet with more facility, leſſe charge, and effuſion of blood then now. And from hence ariſeth a <hi>quaere,</hi> which <hi>he</hi> knowes not how to reſolve, that is, Why ſo many, who were implacable without a Parliament, ſhould ſince have their underſtandings ſo infatuated, as to forſake the ſame Parliament, and draw their
+<pb n="4" facs="tcp:113107:4"/>ſwords to purchaſe their own bondage againſt them who with the hazard of their lives and livelihoods, have faithfully endeavoured the preſervation of their Liberties.</p>
+            <p>And this <hi>he</hi> looks upon with griefe, as a great fore<g ref="char:EOLhyphen"/>runner of ruine, it being an undeniable truth, that the miſplaced confidence of the multitude, is the one<g ref="char:EOLhyphen"/>ly opener of a convenient gap for men that are great and bad, to bring in upon a Common-wealth unreſiſtable deſtruction, which ſad experience ma<g ref="char:EOLhyphen"/>keth too manifeſt amongſt us; for by that meanes pretence hath raiſed all theſe powers againſt real<g ref="char:EOLhyphen"/>lity: So many falſe fighters for the priviviledge of Parliament, antd the liberty of the Subject againſt the Parliament, becauſe they will not betray the truſt of the Kingdome, in yeelding up both that and themſelves to perpetuall ſlavery: So many quar<g ref="char:EOLhyphen"/>rellers with them, that nothing is made better, but all things worſe, and the greivance of the ſubject greater then before; which <hi>he</hi> conceives to be as abſurd to one of right underſtanding, as if a man in the hands of Theeves and Murderers, ready to be ſpoiled and rob<g ref="char:EOLhyphen"/>bed of all he hath, ſhould quarrel with his Reſcuers, becauſe both he and they are wounded in his reſcue. And <hi>his</hi> opinion is, that theſe prepoſterous miſtakes proceed (in part) from the aſtoniſhment of the people, being ſo amazed with theſe miſerable and unexpected alterations, that they are in their ſufferings like a man in drowning, who diſtractedly catching at any thing to ſave himſelfe, faſtens upon his friend that comes to preſerve him, to the loſſe or danger of both their lives: For <hi>he</hi> conceives that no well recollected man can poſ<g ref="char:EOLhyphen"/>ſibly
+<pb n="5" facs="tcp:113107:4"/>beleeve, that his Majeſty now fights to maintaine what he hath already granted, a Trienniall Parliament, the continuation of this, and the putting off all power from himſelfe to diſſolve this or any other at his own abſolute pleaſure; but rather, as one that hath gone too farre, to raze out the memory of thoſe things by the ſword, and make them not Acts but overſights. For the better illuſtration whereof, <hi>he</hi> would have you re<g ref="char:EOLhyphen"/>member what a <hi>Noli me tangere</hi> the prerogative hath been to former Parliaments, when the ſole power was in his Majeſty to diſſolve them with a <hi>Sic volo,</hi> which doth plainly demonſtrate his liberall yielding to this, in ſo many things, to be the higheſt point of policie; that his evill Councell did ever adviſe him to, ſince his coming to the Crown, being not done by them with the leaſt intention of any performance (as we have ſince found by experience) but onely to incline the peoples mindes to an opinion of a refractory Par<g ref="char:EOLhyphen"/>liament, and the graciouſneſſe of the King: upon which foundation, his Army was firſt raiſed; whereas if o<g ref="char:EOLhyphen"/>therwiſe he had relinquiſht the Parliament, without paſsing thoſe ſatisfactory Acts, he had ſo evidently diſ<g ref="char:EOLhyphen"/>covered himſelfe to all his ſubjects, that this preſence would rather have faſtened their malignity upon him, then perſwaded their aſsiſtance, which no man <hi>he</hi> con<g ref="char:EOLhyphen"/>ceives, can deny, that is not reſolved to make his own humour and partiality, the only object of his will, and wilfully ſuffer his underſtanding to be led into error, by impoſsible poſitions, grounded upon contrarieties, as that his Majeſty hath expreſt much love to his ſub<g ref="char:EOLhyphen"/>jects, and care of the Common-wealth, in being ſo in<g ref="char:EOLhyphen"/>duſtrious to deſtroy both; or that he undoubtedly
+<pb n="6" facs="tcp:113107:5"/>purpoſeth to govern a Parliamentary way, as his predeceſſors have done; becauſe he hath ſo king ſtrugled with the Lawes of the Kingdome, to rule by his Prerogative, without a Parliament, and at laſt forſa<g ref="char:EOLhyphen"/>ken it, when he knew not how to diſſolve it: for thus a malignant muſt prove his tenents, and no otherwiſe.</p>
+            <p>His concluſion therefore is, that upon due conſide<g ref="char:EOLhyphen"/>ration of theſe things, no man can repine or murmure at the Parliament, for his preſent ſufferings, except he look only upon the preſent, and eſteem future times impertinencies.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
